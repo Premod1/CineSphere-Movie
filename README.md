@@ -25,3 +25,6 @@ This Vue.js application utilizes a public API to fetch and display a list of mov
 4. **Open your browser and navigate to** `http://localhost:8080` **to view the application.**
 
 Feel free to contribute, report issues, or suggest improvements! Pull requests are welcome.
+
+## Link
+https://cine-sphere-movie.vercel.app/
